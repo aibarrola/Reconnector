@@ -1,5 +1,5 @@
 # Reconnector
-Help keep track of your relationships in your network and remind you to keep in touch. 
+A hackathon project to help keep track of your relationships in your network and remind you to keep in touch.
 
 ## Inspiration
 During the summer, I put myself out there to network and made sure to keep track of everyone I reached out to. However, it was difficult to remember which ones I haven't kept in touch with. I used Google Spreadsheets to keep track of information such as name, company, job title, last called, contact information, and Google Docs to write down all the insights and advice I got from them. However, the UI was hard to figure out which relationship I haven't kept in touch with. That is why we built Reconnector. created e wanted to create a website application that allowed users to easily add people to their network and remind them to
@@ -27,3 +27,5 @@ Angelo - I learned a lot on how to work together in a team to build a project fr
 Implement mail notifications
 Use sorting algorithm to sort relationships based on the last time you contacted them
 Adding customizable tabs to organize relationships from professional and personal We are going to continue to finish this project and deploy it for the public to use!
+
+[https://devpost.com/software/reconnector-x413q6#]

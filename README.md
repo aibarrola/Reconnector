@@ -24,8 +24,8 @@ We are proud of building this project together even through the time differences
 Angelo - I learned a lot on how to work together in a team to build a project from scratch. Also was able to learn about how firebase works and implementing it with React. This was my first hackathon so there were a lot of firsts, it was a lot of fun so I can't wait to attend more in the future!
 
 ## What's next for Reconnector
-Implement mail notifications
-Use sorting algorithm to sort relationships based on the last time you contacted them
-Adding customizable tabs to organize relationships from professional and personal We are going to continue to finish this project and deploy it for the public to use!
+- Implement mail notifications
+- Use sorting algorithm to sort relationships based on the last time you contacted them
+- Adding customizable tabs to organize relationships from professional and personal We are going to continue to finish this project and deploy it for the public to use!
 
 [https://devpost.com/software/reconnector-x413q6#]
